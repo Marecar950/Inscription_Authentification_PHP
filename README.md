@@ -1,1 +1,1 @@
-# Inscription_Authentification PHP (PDO)
+Projet personnel : Inscription et Authentification en PHP (PDO)
