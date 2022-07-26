@@ -1,1 +1,1 @@
-# Inscription_Authentification_PHP
+# Inscription_Authentification PHP (PDO)
