@@ -1,1 +1,1 @@
-Projet personnel : Inscription et Authentification en PHP (PDO)
+Projet personnel : Inscription et Authentification
