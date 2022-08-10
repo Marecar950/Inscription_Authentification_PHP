@@ -1,5 +1,6 @@
 <?php
   session_start();
+  
   if($_SESSION["autoriser"] != "oui") 
  {
    header("location:connexion.php");
@@ -16,12 +17,13 @@
   <html>
     <head>
       <meta charset="utf-8" />
+      
       <style>
       
       .lien_connexion {
         text-align: right;
         font-size: 18pt;
-     }
+      }
       
       .titre {
         color: blue;
@@ -29,11 +31,12 @@
       }
       
       </style>
+      
     </head>
     <body>
     
     <div class="lien_connexion">
-      <a href="connexion.php">Se déconnecter</a>
+      <a href="connexion.php" style="color:red">Se déconnecter</a>
     </div>
      
     <div class="titre">
